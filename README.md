@@ -30,4 +30,4 @@
 </a>
 </div>
 
-![Snake Graph](https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg)
+![github-user-contribution](https://github.com/Shrikant-28/Shrikant-28/assets/59720723/30906df0-97f7-4f80-a92b-cfc5cbd18c06)
