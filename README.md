@@ -29,9 +29,6 @@
 <a href="https://twitter.com/ShrikantDharam" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a> 
-<a href="https://instagram.com/shrikant.dharam" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 </div>
 
 ![github-user-contribution](https://github.com/Shrikant-28/Shrikant-28/assets/59720723/30906df0-97f7-4f80-a92b-cfc5cbd18c06)
