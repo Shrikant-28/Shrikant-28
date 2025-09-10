@@ -2,7 +2,11 @@
 
 👨‍💻 I'm a passionate software engineer with 5+ years of industry experience crafting captivating web experiences.
 
-⚒️ My expertise lies in Laravel, Php, React, Javascript, UX/UI design, MySQL, web performance optimization, and building complex front-ends, including robust Design Systems.
+🚀 Custom CRM Development: Microsoft Dynamics, Salesforce, Zoho CRM, API integration, automation workflows, security models. 
+
+🚀 Apparel sales process automation, healthcare patient management, compliance solutions.
+
+⚒️ My expertise lies in Laravel, Php, Node JS, React, Angular, Typescript, Javascript, UX/UI design, MySQL, web performance optimization, and building complex front-ends, including robust Design Systems.
 
 🖌️ Beyond coding, I excel at web design, crafting stunning landing pages and components with Figma.
 
