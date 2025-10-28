@@ -2,7 +2,7 @@
 
 👨‍💻 I'm a passionate software engineer with 5+ years of industry experience crafting captivating web experiences.
 
-🚀 Custom CRM Development: Microsoft Dynamics, Salesforce, Zoho CRM, API integration, automation workflows, security models. 
+🚀 Custom CRM Development: API integration, automation workflows, security models. 
 
 🚀 Apparel sales process automation, healthcare patient management, compliance solutions.
 
