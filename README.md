@@ -1,6 +1,6 @@
 # [Shrikant Dharam](https://github.com/Shrikant-28) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
-👨‍💻 I'm a passionate software engineer with 5+ years of industry experience crafting captivating web experiences.
+👨‍💻 I'm a passionate software engineer with 6+ years of industry experience crafting captivating web experiences.
 
 🚀 Custom CRM Development: API integration, automation workflows, security models. 
 
