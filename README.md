@@ -31,4 +31,5 @@
 </a> 
 </div>
 
-![github-user-contribution](https://github.com/Shrikant-28/Shrikant-28/assets/59720723/30906df0-97f7-4f80-a92b-cfc5cbd18c06)
+![github-user-contribution](https://raw.githubusercontent.com/Shrikant-28/Shrikant-28/output/github-contribution-grid-snake-dark.svg)
+
